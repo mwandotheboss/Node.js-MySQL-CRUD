@@ -1,0 +1,2 @@
+-- @block
+select * FROM employees
